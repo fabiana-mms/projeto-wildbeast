@@ -1,0 +1,20 @@
+@import "./reset.css";
+@import "./global.css";
+
+/*Grid geral*/
+@import "./gridGeral.css";
+
+/*Menu*/
+@import "./menu.css";
+
+/*Sidenav*/
+@import "./sidenav.css";
+
+/*Content*/
+@import "./content.css";
+
+/*Anuncios*/
+@import "./anuncios.css";
+
+/*Footer*/
+@import "./footer.css";
