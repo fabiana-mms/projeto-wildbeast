@@ -9,9 +9,9 @@ Praticar HTML, CSS e Grid Layout.
 
 ## :computer: Tecnologias 
 
-* [HTML](#html)
-* [CSS](#css)
-* [Grid Layout](#grid)
+* HTML
+* CSS
+* Grid Layout
 
 ## :heavy_check_mark: Itens do Grid Layout utilizado
 
